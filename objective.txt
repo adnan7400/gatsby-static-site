@@ -1,0 +1,7 @@
+1. Generate a slug for each post (A slug is the last part of the url containing a unique string which identifies the resource being served by the web service.)
+
+rumours.md -> rumours -> /blog/gatsby
+
+2. Generate the blog post page template
+
+3. Generate a new page for each post 
