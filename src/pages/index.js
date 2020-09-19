@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <Layout>
       <Head title="Home" />
-      <h1>Hello</h1>
+      <h1>Hello.</h1>
       <h2>I'm Adnan, a web developer living in Vancouver, BC.</h2>
       <p>
         Want to hire me? <Link to="/contact/">Reach out.</Link>
