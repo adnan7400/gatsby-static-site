@@ -8,7 +8,7 @@ export default function Contact() {
     <Layout>
       <Head title="Contact" />
       <h1>Contact</h1>
-      <p>myemail@email.com</p>
+      <p>adnan7400@gmail.com</p>
     </Layout>
   )
 }
